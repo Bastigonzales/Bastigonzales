@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a Self Webpage Project**
  
- 🌱 I’m currently learning **CSS amd Javascript**
+ 🌱 I’m currently learning **CSS and Javascript**
 
  </div>
  
