@@ -18,11 +18,9 @@
  
 <div align="center"> 
   <a href="mailto:bastigonzales@protonmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
 
-  <a href="https://Bastigonzales.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
@@ -31,7 +29,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,windows,linux,notion,pr,vscode,github,figma,git" />
 </div>
 
 <br/>
@@ -40,7 +38,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Bastigonzales/Bastigonzales/output/github-contribution-grid-snake.svg" />  
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Bastigonzales/Bastigonzales/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
