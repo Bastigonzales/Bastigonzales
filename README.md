@@ -38,7 +38,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=250 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bastigonzales&theme=material-palenight&hide_total_contributions=true" alt="GitHub Streak" /></a>
+  <img width=390 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bastigonzales&theme=material-palenight&hide_total_contributions=true" alt="GitHub Streak" /></a>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Bastigonzales&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
 </div>
